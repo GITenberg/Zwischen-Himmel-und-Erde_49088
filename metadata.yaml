@@ -1,0 +1,29 @@
+_repo: Zwischen-Himmel-und-Erde_49088
+contributor:
+  commentator:
+    agent_name: Mießner, Wilhelm
+    gutenberg_agent_id: '45135'
+    url: http://www.gutenberg.org/2009/agents/45135
+  illustrator:
+    agent_name: Scheurich, Paul
+    gutenberg_agent_id: '45136'
+    url: http://www.gutenberg.org/2009/agents/45136
+creator:
+  author:
+    agent_name: Ludwig, Otto
+    birthdate: 1813
+    deathdate: 1865
+    gutenberg_agent_id: '35764'
+    url: http://www.gutenberg.org/2009/agents/35764
+    wikipedia: http://en.wikipedia.org/wiki/Otto_Ludwig_%28writer%29
+description: ''
+gutenberg_issued: '2015-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49088'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Zwischen Himmel und Erde
+url: http://www.gutenberg.org/ebooks/49088
