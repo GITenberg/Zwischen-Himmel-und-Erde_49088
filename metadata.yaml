@@ -1,4 +1,5 @@
 _repo: Zwischen-Himmel-und-Erde_49088
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Mießner, Wilhelm
@@ -8,6 +9,9 @@ contributor:
     agent_name: Scheurich, Paul
     gutenberg_agent_id: '45136'
     url: http://www.gutenberg.org/2009/agents/45136
+covers:
+- cover_type: archival
+  image_path: 49088-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Ludwig, Otto
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35764
     wikipedia: http://en.wikipedia.org/wiki/Otto_Ludwig_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49088#Zwischen-Himmel-und-Erde
 gutenberg_issued: '2015-05-30'
 gutenberg_type: Text
 identifiers:
