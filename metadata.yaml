@@ -31,5 +31,7 @@ language: de
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Zwischen Himmel und Erde
 url: http://www.gutenberg.org/ebooks/49088
